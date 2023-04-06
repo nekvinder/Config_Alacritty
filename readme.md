@@ -5,7 +5,7 @@
 
 ```bash
 
-git clone --depth 1 https://github.com/nekvinder/Config_Alacritty.git ~/.config/alacritty
+git clone --depth 1 git@github.com:nekvinder/Config_Alacritty.git ~/.config/alacritty
 alacritty
 
 ```
